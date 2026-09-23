@@ -1,0 +1,11 @@
+name = "localhost-1313"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=localhost%3A1313"
+HMAC_KEY = "5146f5ce1bc773dee0179009ccb437a90c7deb1509f268a5d2c9f94fb1faddb2"
+COOKIE_NAME = "89s"
+PLAY_PATH = "play"
+BUTTON_ID = "p473e39fdeee640c3df47714e33b41874"
+GATE_SALT = "7172c85c4250a926"
